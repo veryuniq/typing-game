@@ -89,5 +89,3 @@ typedValueElement.addEventListener("input", () => {
     typedValueElement.className = "error";
   }
 });
-
-localStorage.setItem();
