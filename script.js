@@ -1,13 +1,16 @@
 // inside script.js
 // all of our quotes
 const quotes = [
-  "When you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
-  "There is nothing more deceptive than an obvious fact.",
-  "I ought to know by this time that when a fact appears to be opposed to a long train of deductions it invariably proves to be capable of bearing some other interpretation.",
-  "I never make exceptions. An exception disproves the rule.",
-  "What one man can invent another can discover.",
-  "Nothing clears up a case so much as stating it to another person.",
-  "Education never ends, Watson. It is a series of lessons, with the greatest for the last.",
+  "It's not about overpowering an enemy. It's about taking away what power they have.",
+  "Without you, I am nothing. But because of you, I am everything.",
+  "It's important not to lose sight of what drives us: Love, justice, reverence...but the moment you put your desires befor my own...they will be lost to you. This isn't a threat, this is simply the truth. The path to you desires is only found...through me.",
+  "Do you feel it? Don't fight it girl. It can sense your trepidation. You must make 'it' dread you.",
+  "... This is the beginning of the end, Ozpin. And I can't wait to watch you burn.",
+  "But perhaps victory is in the simpler things that you;ve long forgotten; things that require a smaller, more honest soul.",
+  "But I look amoungst you, and all I see is wasted energy, in need of purpose - direction. You assume knowledge will  free you of this, but your time at this school will prove that knowldege can only take you so far. It is up to you to take the first step.",
+  "I'm queen of the castle. I'm queen of the castle.",
+  "Well the name's Jaune Arc. Short, sweet, rolls off the tongue, ladies love it.",
+  "My mom always says, strangers are just friends you haven't met yet.",
 ];
 
 // store the list of words and the index of the word the player is currently typing
