@@ -11,6 +11,7 @@ const quotes = [
   "I'm queen of the castle. I'm queen of the castle.",
   "Well the name's Jaune Arc. Short, sweet, rolls off the tongue, ladies love it.",
   "My mom always says, strangers are just friends you haven't met yet.",
+  "Do you believe in destiny?",
 ];
 
 // store the list of words and the index of the word the player is currently typing
