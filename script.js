@@ -3,7 +3,7 @@
 const quotes = [
   "It's not about overpowering an enemy. It's about taking away what power they have.",
   "Without you, I am nothing. But because of you, I am everything.",
-  "It's important not to lose sight of what drives us: Love, justice, reverence...but the moment you put your desires befor my own...they will be lost to you. This isn't a threat, this is simply the truth. The path to you desires is only found...through me.",
+  "It's important not to lose sight of what drives us: Love, justice, reverence...but the moment you put your desires before my own...they will be lost to you. This isn't a threat, this is simply the truth. The path to your desires is only found...through me.",
   "Do you feel it? Don't fight it girl. It can sense your trepidation. You must make 'it' dread you.",
   "... This is the beginning of the end, Ozpin. And I can't wait to watch you burn.",
   "But perhaps victory is in the simpler things that you;ve long forgotten; things that require a smaller, more honest soul.",
